@@ -1,8 +1,8 @@
-![How this research evolved: a timeline from Wikipedia-era knowledge graphs (2015) through event-extraction corpora, factuality benchmarks, and the LLM-prompting era, to hallucination-aware refinement (2026)](timeline-evolution.svg)
-
 # Awesome Biographical Timelines [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of research on automatically constructing biographies, biographical knowledge graphs, and person-centric event timelines from text.
+
+![How this research evolved: a timeline from Wikipedia-era knowledge graphs (2015) through event-extraction corpora, factuality benchmarks, and the LLM-prompting era, to hallucination-aware refinement (2026)](timeline-evolution.svg)
 
 ## Contents
 
