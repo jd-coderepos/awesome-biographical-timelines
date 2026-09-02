@@ -4,14 +4,6 @@
 
 ![How this research evolved: a timeline from Wikipedia-era knowledge graphs (2015) through event-extraction corpora, factuality benchmarks, and the LLM-prompting era, to hallucination-aware refinement (2026)](timeline-evolution.svg)
 
-| Years        | Era                               | What changed                                                                                                                                          |
-| ------------ | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2015-2019    | Wikipedia & Knowledge Graphs      | Rule-based NLP pipelines pull structured events from Wikipedia bios and national biographical dictionaries into RDF/KGs.                              |
-| 2020-2022    | Event Extraction & News Timelines | Dedicated corpora formalize biographical event extraction; multi-document news timeline summarization matures into its own benchmark-driven subfield. |
-| 2023         | Factuality Becomes Central        | FActScore turns biography generation into the standard testbed for measuring LLM hallucination.                                                       |
-| 2024-present | The LLM-Prompting Era             | Multi-stage pipelines give way to single-prompt extraction, applied to both multi-document news and single-document sources.                          |
-| 2026-present | Hallucination-Aware Refinement    | Chain-of-thought techniques get applied directly to timeline generation to catch omission and unfaithfulness errors.                                  |
-
 ## Contents
 
 - [Quick Picks](#quick-picks)
